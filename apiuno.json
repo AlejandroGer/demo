@@ -1,0 +1,9 @@
+{ "object" : [
+	{"fsparam" : "characteristic",
+	"scnparam" : ["firstchar","scndchar"]
+	},
+	{"fsparam" : "otherchar",
+	"scnparam" : ["thrdchar","frthchar"]
+	}
+	]
+}
