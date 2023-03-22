@@ -1,2 +1,8 @@
 example.txt
 readtext.txt
+filenofile.dll
+test2.txt
+nonexis.js
+apiuno.json
+otroinexisting.csv
+list.txt
